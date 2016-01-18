@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Mover &quot;GEFCNHOTM.prw&quot; a &quot;OTM&quot;" description="Mover &quot;GEFCNHOTM.prw&quot; a &quot;OTM&quot;" destination="novo projeto/tms-cnh/OTM" element1="novo projeto/GEFCNHOTM.prw" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1448630778933" updateReferences="true"/>
+</session>
